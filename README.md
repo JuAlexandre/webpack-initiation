@@ -1,7 +1,18 @@
-# Wild Code School - Quête : Découverte de Webpack
+# webpack-initiation
 
 ## Installation
-1. Clone the repos from Github.
-2. Run `npm install`.
-3. Run `npm run start`.
-4. Have fun ! :)
+
+Clone the repository and move in :
+```
+git clone https://github.com/JuAlexandre/webpack-initiation.git
+```
+
+Install dependencies :
+```
+npm install
+```
+
+Run with :
+```
+npm run start
+```

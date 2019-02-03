@@ -1,10 +1,10 @@
-import moment from "moment";
+import moment from 'moment';
 import 'bootstrap';
 import '../src/css/style.scss';
 
-let $ = require("jquery");
+let $ = require('jquery');
 
-console.log("Bienvenue dans WebPack !");
+console.log('Bienvenue dans WebPack !');
 console.log(moment().startOf('day').fromNow());
 
 $('.btn-place').append(
