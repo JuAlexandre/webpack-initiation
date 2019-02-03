@@ -1,7 +1,7 @@
 {
   "name": "webpackdev",
   "version": "1.0.0",
-  "description": "Wild Code School : Quête : Découverte de Webpack",
+  "description": "WCS Quest : Webpack initiation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuAlexandre/webpack.git"
+    "url": "git+https://github.com/JuAlexandre/webpack-initiation.git"
   },
   "author": "Julien ALEXANDRE <julien.alexandre26@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuAlexandre/webpack/issues"
+    "url": "https://github.com/JuAlexandre/webpack-initiation/issues"
   },
-  "homepage": "https://github.com/JuAlexandre/webpack#readme",
+  "homepage": "https://github.com/JuAlexandre/webpack-initiation#readme",
   "devDependencies": {
     "autoprefixer": "^8.5.0",
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.1.2",
     "css-loader": "^0.28.11",
     "export-loader": "^1.0.52",
     "exports-loader": "^0.7.0",
