@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JuAlexandre/webpack-initiation#readme",
   "devDependencies": {
     "autoprefixer": "^8.5.0",
-    "bootstrap": "^4.1.2",
+    "bootstrap": "^4.3.1",
     "css-loader": "^0.28.11",
     "export-loader": "^1.0.52",
     "exports-loader": "^0.7.0",
